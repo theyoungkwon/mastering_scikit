@@ -1,4 +1,4 @@
-## COMP 5212: Machine Learing Project 1
+# Machine Learning Project to Improve Well-Known Software Package, Scikit-learn
 
 #### Description
 This is the README.md file which explains the way to run 'code.py' code.
